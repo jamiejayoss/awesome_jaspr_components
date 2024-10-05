@@ -40,7 +40,7 @@ from the package authors, and more. -->
 
 # Awesome Jaspr Components
 
-**Awesome Jaspr Components** is an open-source Dart package that brings a Flutter-like development experience to the [Jaspr](https://jaspr.dev) framework. With a familiar API and a rich set of components, you can easily build reactive web apps using Jaspr, just like you would in Flutter.
+**Awesome Jaspr Components** is an open-source Dart package that brings a Flutter-like development experience to the [Jaspr](https://docs.page/schultek/jaspr) framework. With a familiar API and a rich set of components, you can easily build reactive web apps using Jaspr, just like you would in Flutter.
 
 ## Features
 

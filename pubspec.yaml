@@ -1,7 +1,7 @@
 name: awesome_jaspr_components
 description: Get the flutter development experience on a jaspr website.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/jamiejayoss/awesome_jaspr_components
 
 environment:
   sdk: ^3.5.2
