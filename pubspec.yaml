@@ -1,6 +1,6 @@
 name: awesome_jaspr_components
-description: Get the flutter development experience on a jaspr website.
-version: 1.0.0
+description: An open-source Dart package that brings a Flutter-like development experience to the Jaspr framework.  With a familiar API and a rich set of components, you can easily build reactive web apps using Jaspr, just like you would in Flutter
+version: 1.0.1
 repository: https://github.com/jamiejayoss/awesome_jaspr_components
 
 environment:

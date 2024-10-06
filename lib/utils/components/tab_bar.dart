@@ -3,7 +3,6 @@ import 'package:jaspr_router/jaspr_router.dart';
 
 import '../properties/properties.dart';
 import 'components.dart';
-import 'tab.dart';
 
 class TabBar extends StatefulComponent {
   const TabBar({
